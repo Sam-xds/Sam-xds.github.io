@@ -12,6 +12,16 @@ To restore the Python environment:
 ```bash
 uv sync
 ```
+### R
+
+R dependencies are managed with `renv`.
+
+To restore the R environment, open the project in R and run:
+
+```r
+renv::restore()
+```
+
 ## Reproducibility check
 
 The project was tested from a fresh clone by restoring the Python and R environments and rendering the complete Quarto site successfully.
