@@ -15,3 +15,11 @@ uv sync
 ## Reproducibility check
 
 The project was tested from a fresh clone by restoring the Python and R environments and rendering the complete Quarto site successfully.
+
+## Build the site
+
+From the project root, run:
+
+```bash
+uv run quarto render
+```
