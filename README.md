@@ -11,3 +11,7 @@ To restore the Python environment:
 
 ```bash
 uv sync
+```
+## Reproducibility check
+
+The project was tested from a fresh clone by restoring the Python and R environments and rendering the complete Quarto site successfully.
