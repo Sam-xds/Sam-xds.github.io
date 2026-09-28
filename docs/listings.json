@@ -2,6 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/auto-claim-frequency-r/index.html",
+      "/posts/auto-claim-frequency-python/index.html",
       "/posts/first-weeks/index.html"
     ]
   }

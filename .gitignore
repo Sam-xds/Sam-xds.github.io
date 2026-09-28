@@ -1,2 +1,8 @@
 /.quarto/
 **/*.quarto_ipynb
+
+.venv/
+renv/library/
+renv/staging/
+terminal_history.txt
+.DS_Store
